@@ -1,0 +1,5 @@
+# Biowin-vs-ML-project
+# Video URL:
+
+# Abstract: 
+This study presents a novel approach to predicting effluent quality in wastewater treatment plants through Machine Learning (ML) models, utilizing a large dataset generated from the BioWin 6.2 simulation tool. The dataset encompasses both influent and effluent characteristics, offering a comprehensive perspective on treatment dynamics. We compared the performance of three different models: Linear Regression, Simple Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) networks. Our analysis focused on evaluating each model's predictive accuracy and reliability. The results demonstrate that LSTM significantly outperformed the others in terms of prediction accuracy and consistency, with a  Root Mean Square Error (RMSE) of XXXX and a coefficient of determination (R$^2$) of XXX.  This work not only underscores the potential of integrating mechanistic models with ML for enhanced predictive accuracy, cost-effectiveness, and risk reduction in model training but also suggests scalable and adaptable solutions for real-time optimization and enhanced environmental impact.
